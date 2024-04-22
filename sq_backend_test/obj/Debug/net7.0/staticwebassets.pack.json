@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/home/u98/Downloads/Git/aspnet_starter/sq_backend_test/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
       "Id": "/home/u98/Downloads/Git/aspnet_starter/sq_backend_test/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
